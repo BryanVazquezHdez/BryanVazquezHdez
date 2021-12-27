@@ -33,7 +33,7 @@
 
 <br />
 
-- 💻 OS & Workspace Spec 🔝 &nbsp;
+- #### 💻 OS & Workspace Spec 🔝 &nbsp;
 
     <br />
 
@@ -42,7 +42,7 @@
   ![apple](https://img.shields.io/badge/Apple-Apple_Silicon-FFFFFF?style=for-the-badge&logo=apple&logoColor=white)
 <br />
 
-- Mobile Dev 📱 &nbsp;
+- #### Mobile Dev 📱 &nbsp;
 
     <br />
 
@@ -57,7 +57,7 @@
 
 
 
-- Database 🛢 &nbsp;
+- #### Database 🛢 &nbsp;
 
     <br />
 
@@ -67,7 +67,7 @@
 
 <br />
 
-- Agile ⚙️ &nbsp;
+- #### Agile ⚙️ &nbsp;
 
     <br />
 
@@ -75,7 +75,7 @@
 
   <br />
   
-- Web Dev 🌐 &nbsp;
+- #### Web Dev 🌐 &nbsp;
 
     <br />
 
@@ -86,7 +86,7 @@
   <br/>
 
 
-- IDE 👨🏻‍💻 &nbsp;
+- #### IDE 👨🏻‍💻 &nbsp;
 
     <br />
 
@@ -98,7 +98,7 @@
   <br/>
   
 
-- Terminal 💻 &nbsp;
+- #### Terminal 💻 &nbsp;
 
     <br />
 
@@ -108,7 +108,7 @@
 
   <br/>  
 
-- Personal Usage 🧑🏻‍💻 &nbsp;
+- #### Personal Usage 🧑🏻‍💻 &nbsp;
 
     <br />
 
@@ -116,7 +116,7 @@
  
  <br/>
 
-- Hobbies 🧑🏻‍💻 &nbsp;
+- #### Hobbies 🧑🏻‍💻 &nbsp;
 
     <br />
 
@@ -131,7 +131,7 @@
 # About me:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanVazquezHdez)
-
+![](https://github-readme-stats.vercel.app/api?username=BryanVazquezHdez)
 
 
 ---
