@@ -1,9 +1,14 @@
 ### Hi there, I'm Bryan -  [ReservApp Cofounder][website] 👋 
+---
+<img align='right' width="30%" src="https://i.gifer.com/5LST.gif"/>
 
 [![Website](https://img.shields.io/website?label=reservapp.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.reservapp.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/bryanv_h?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryanv_h&screen_name=bryanv_h)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bryanv_h?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbryanv_h&screen_name=bryanv_h) 
 
-## I'm a Entrepreneur, Engineer and Developer!!
+<br/>
+
+---
+## I'm a Entrepreneur, Engineer and Developer!
 
 - 🔭 I just posted my first YouTube video: [A Systems Engineer in the world of entrepreneurship.][course]
 - 🌱 I’m currently undertaking 🤣
@@ -13,7 +18,6 @@
 ---
 
 ### Connect with me:
-
 [<img align="left" alt="reservapp.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
