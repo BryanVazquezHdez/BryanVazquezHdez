@@ -67,16 +67,12 @@
 
 - #### Agile ⚙️ &nbsp;
 
-
-
   ![Azure DevOps](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
   <br />
   
-  - #### UX/UI Design 🎨 &nbsp;
-
-
+- #### UX/UI Design 🎨 &nbsp;
 
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
